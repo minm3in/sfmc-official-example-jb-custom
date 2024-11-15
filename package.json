@@ -27,7 +27,7 @@
     "express": "^4.21.1",
     "postmonger": "0.0.16",
     "serve-static": "^1.12.3",
-     "webpack": "^5.96.1",
+    "webpack": "^5.96.1",
     "webpack-cli": "^3.3.10"
   }
 }
