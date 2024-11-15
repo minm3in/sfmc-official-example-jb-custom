@@ -79,4 +79,3 @@ examples that you would like to see included. Just log a new issue and we'll our
 ## License
 Source code is licensed under [BSD 3-Clause](./LICENSE.txt)
 
-
